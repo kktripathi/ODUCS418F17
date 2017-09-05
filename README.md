@@ -11,7 +11,7 @@ Instructor: Dr. Justin F. Brunelle [mail](mailto:jfbrunel@odu.edu)
 ## Student Project Repositories 
 Below are links to students' project repositories for the class based on their submission in <a href="http://www.cs.odu.edu/~jbrunelle/cs518/assignments/assignment1.html">assignment 1</a>. 
 
-* [cs_name](https://github.com/USERNAME) 
+* [groups.html](http://www.cs.odu.edu/~jbrunelle/cs518/groups.html) 
 
 
 
